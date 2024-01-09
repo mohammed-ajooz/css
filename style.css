@@ -1,0 +1,28 @@
+.title{ color: blue;
+ font-size: larger;
+text-align: center;
+display: inline-block;
+margin: 8px;
+padding: 2px 11px;
+border: 2px ridge red;}
+
+.text{
+ display: inline-block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px  solid green ;
+  background-image: linear-gradient(to top, green, rgb(255, 251, 0));
+  opacity:0.8;
+  margin: 8px;
+  padding: 2px 15px;
+ 
+}
+ body{ text-align: center;}
+ a:link{background-color: red;}
+ a:visited{background-color: green;}
+ a:hover{background-color: blue;}
+ a:focus{background-color: aqua;}
+ a:active{background-color: orchid;}
+
+.listdiv{text-align: left;
+border: 2px solid red;
+width: 200px;}
